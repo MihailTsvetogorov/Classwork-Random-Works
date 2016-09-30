@@ -1,0 +1,4 @@
+D:\10 V\Solution1\bubbleSort\bin\Debug\bubbleSort.exe
+D:\10 V\Solution1\bubbleSort\bin\Debug\bubbleSort.pdb
+D:\10 V\Solution1\bubbleSort\obj\x86\Debug\bubbleSort.exe
+D:\10 V\Solution1\bubbleSort\obj\x86\Debug\bubbleSort.pdb

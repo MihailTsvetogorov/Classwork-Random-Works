@@ -1,0 +1,5 @@
+D:\10 V\Solution1\CSharpandC++Exercises\bin\Debug\CSharpandC++Exercises.exe
+D:\10 V\Solution1\CSharpandC++Exercises\bin\Debug\CSharpandC++Exercises.pdb
+D:\10 V\Solution1\CSharpandC++Exercises\obj\x86\Debug\CSharpandC++Exercises.exe
+D:\10 V\Solution1\CSharpandC++Exercises\obj\x86\Debug\CSharpandC++Exercises.pdb
+D:\10 V\Solution1\CSharpandC++Exercises\obj\x86\Debug\CSharpandC++Exercises.csprojResolveAssemblyReference.cache
